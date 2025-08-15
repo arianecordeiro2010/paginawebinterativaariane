@@ -1,0 +1,13 @@
+body{
+color:rgb(203, 207, 149);
+background:blueviolet;
+
+
+
+}
+heard {
+    border-bottom: solid 2px rgb(203, 207, 149);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(from color r g b);
+}
