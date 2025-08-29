@@ -3,11 +3,27 @@ color:rgb(203, 207, 149);
 background:blueviolet;
 
 
-
 }
 heard {
     border-bottom: solid 2px rgb(203, 207, 149);
     padding: 20px;
     font-size: 32px;
     color: rgb(from color r g b);
+}
+section{
+background:rgb(203, 207, 149) ;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto{
+        margin-right: 5%;
+}
+
+
+ h1{font-size: 40px;
+}
+  p{font-size: 20;
+
 }
